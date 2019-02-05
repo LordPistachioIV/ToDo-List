@@ -1,7 +1,10 @@
 # ToDo-List
-A ToDo List application created in C#
+A ToDo List application created in C# created in Microsoft Visual Studio
 
-Requirements of the program
+# How to Run
+Download the folder, extract if a .zip. Once extracted go to ToDo List>bin>Debug and run ToDo List.exe
+
+# Requirements of the program
 - Field where the user can enter anything ( except for blanks ), when pressing enter the item is now added to the ToDo list.
 - All items in the ToDo need a remove icon/button
 - All items in the ToDo need some sort of checkbox
